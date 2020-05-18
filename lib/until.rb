@@ -4,6 +4,5 @@ def using_until
     levitation_force ++
   end
   #your code here
-    
-end
 
+end
